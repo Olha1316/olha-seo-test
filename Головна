@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>SEO Практика – Olha</title>
+  <meta name="description" content="Тестова сторінка для тренування в Google Search Console.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://твоя_адреса.github.io/ім'я_репозиторію/">
+</head>
+<body>
+  <h1>Привіт, Google!</h1>
+  <p>Це моя тестова сторінка для практики з GSC. Тут буде sitemap, robots.txt, мета-теги та ще багато чого.</p>
+</body>
+</html>
