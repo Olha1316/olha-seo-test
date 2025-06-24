@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://твоя_адреса.github.io/ім'я_репозиторію/</loc>
+    <loc>https://olha1316.github.io/olha-seo-test/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://olha1316.github.io/olha-seo-test/category.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://olha1316.github.io/olha-seo-test/product.html</loc>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
